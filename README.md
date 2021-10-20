@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi everyone! I'm David Cadena 👋
 
+
+![Verde Oscuro Jugador Supervivencia Portada de YouTube (2)](https://user-images.githubusercontent.com/62786521/138188267-3450c7c0-7133-4f2a-8577-e699a5e36fd1.png)
 <!--
 **codigodehoy/codigodehoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
